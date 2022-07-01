@@ -1,0 +1,15 @@
+{
+    "name": "brumel/loja-de-varejjo",
+    "autoload": {
+        "psr-4": {
+            "APP\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aécio Brumel",
+            "email": "aeciobrumelms@gmail.com"
+        }
+    ],
+    "require": {}
+}
