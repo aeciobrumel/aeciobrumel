@@ -34,7 +34,6 @@
 
 <!-- Estatísticas gerais -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aeciobrumel&show_icons=true&theme=dark" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aeciobrumel&theme=dark" />
 </p>
 
