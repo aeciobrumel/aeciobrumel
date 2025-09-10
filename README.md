@@ -70,5 +70,6 @@
 - 🧠 Sempre estudando **novas tecnologias** para evoluir como dev
 
 ---
-
+<p align="center">
 ![star-wars-dark-side](https://user-images.githubusercontent.com/88293649/236702221-ee5a7a99-9ec6-482f-8514-13490a0f931d.gif)
+</p>
