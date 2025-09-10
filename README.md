@@ -3,8 +3,7 @@
 
 ![dark-vader-dark](https://user-images.githubusercontent.com/88293649/236701349-e89137f6-c034-4d9e-874a-445127c99d6f.gif)
 
-💻 **Desenvolvedor Fullstack** apaixonado por tecnologia, focado em **Laravel**, **React**, **Docker** e **integrações avançadas**.  
-🎯 Atualmente, desenvolvendo sistemas complexos com **arquitetura limpa**, **autenticação segura** e **dashboards interativos**.  
+💻 **Desenvolvedor Fullstack** apaixonado por tecnologia, focado em **Laravel**, **React**, **Docker** e **TypeScript**.  
 📚 Sempre buscando evoluir minhas habilidades e compartilhar conhecimento com a comunidade.
 
 ---
