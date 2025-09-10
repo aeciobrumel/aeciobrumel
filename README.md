@@ -12,10 +12,12 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=aeciobrumel&show_icons=true" />
 </picture>
-
+  <br/>
 
 <div>
 ## Contatos:
+
+  <br/>
 <a href="https://www.instagram.com/aecio_brumel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><br>
 <a href="https://www.instagram.com/deboaapp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><br>
 <a href="https://www.linkedin.com/in/a%C3%A9cio-silva-a87524205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   <br>
