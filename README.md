@@ -1,15 +1,6 @@
 # Olá, me chamo Aécio Brumel !  
 ## Bem vindo ao meu perfil GitHub 👋     ![dark-vader-dark](https://user-images.githubusercontent.com/88293649/236701349-e89137f6-c034-4d9e-874a-445127c99d6f.gif)
 
-
-
-
-<div>
-<a href="https://github.com/aeciobrumel">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeciobrumel&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aeciobrumel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=aeciobrumel&show_icons=true&theme=dark"
